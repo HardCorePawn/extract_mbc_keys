@@ -1,7 +1,7 @@
 # extract_mbc_keys
 Compiled Python script that will extract Addrs/Keys from a MultiBit Classic Wallet File
 
-Was built "pyinstaller" on Windows with the following command:
+Was built using "pyinstaller" on Windows with the following command:
 
 ```pyinstaller --hidden-import pkgutil extract_mbc_keys.pyw```
 
